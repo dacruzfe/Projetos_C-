@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projeto\\CRUD\\BestStoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|d:\\projeto\\crud\\beststoremvc\\beststoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|d:\\projeto\\crud\\beststoremvc\\beststoremvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|d:\\projeto\\crud\\beststoremvc\\beststoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|d:\\projeto\\crud\\beststoremvc\\beststoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|d:\\projeto\\crud\\beststoremvc\\beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72854309-02FE-47CB-9D0E-F0126C97B495}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "BestStoreMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:59:51.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "BestStoreMVC\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:08:56.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "BestStoreMVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:25:09.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BestStoreMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:23:10.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Models\\Product.cs",
+              "ToolTip": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\Models\\Product.cs",
+              "RelativeToolTip": "BestStoreMVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:17:59.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
