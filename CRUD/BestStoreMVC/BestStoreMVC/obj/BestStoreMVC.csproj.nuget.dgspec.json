@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj": {}
+    "D:\\Projetos_C-\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj": {}
   },
   "projects": {
-    "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj": {
+    "D:\\Projetos_C-\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj",
+        "projectUniqueName": "D:\\Projetos_C-\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj",
         "projectName": "BestStoreMVC",
-        "projectPath": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj",
+        "projectPath": "D:\\Projetos_C-\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\obj\\",
+        "outputPath": "D:\\Projetos_C-\\CRUD\\BestStoreMVC\\BestStoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

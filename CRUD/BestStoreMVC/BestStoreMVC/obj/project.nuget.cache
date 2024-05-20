@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MJguSMt41D4=",
+  "dgSpecHash": "vqefoNWSTZY=",
   "success": true,
-  "projectFilePath": "D:\\Projeto\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj",
+  "projectFilePath": "D:\\Projetos_C-\\CRUD\\BestStoreMVC\\BestStoreMVC\\BestStoreMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
