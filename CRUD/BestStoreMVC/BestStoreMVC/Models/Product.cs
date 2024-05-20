@@ -3,8 +3,14 @@ using System.ComponentModel.DataAnnotations;
 
 namespace BestStoreMVC.Models
 {
+    /// <summary>
+    /// Classe para criação dos campos do banco de dados
+    /// </summary>
     public class Product
     {
+        /// <summary>
+        /// Propriedades que corresponde aos diferentes campos da Tabela
+        /// </summary>
         public int Id { get; set; }
         
         [MaxLength(100)]

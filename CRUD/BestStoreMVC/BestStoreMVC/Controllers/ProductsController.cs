@@ -4,6 +4,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BestStoreMVC.Controllers
 {
+    /// <summary>
+    /// Controller é a classe onde eu crio os métodos e funções de CRUD
+    /// </summary>
     public class ProductsController : Controller
     {
         private readonly ApplicationDBContext Context;
@@ -14,6 +17,10 @@ namespace BestStoreMVC.Controllers
           this.Context = context;
             this.environment = environment;
         }
+
+        /// <summary>
+        /// Funções para Criação, leitura, Atualização e Exclusão dos produtos no banco de dados
+        /// </summary>
 
         #region Create 
         [HttpPost]
